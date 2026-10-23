@@ -1,0 +1,28 @@
+p::first-letter{font-size: 180%;}
+
+body{font-family: IM Fell Double Pica, serif;}
+
+body{color: rgb(91, 8, 160);}
+
+h1, h2 {color: rgb(247, 6, 143);
+        text-align: center;
+        text-decoration: underline;}
+
+footer{font-size: 11px;}
+
+figure{text-align: center;}
+
+table{min-width: 400px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+table caption{color: rgb(247, 6, 143);
+              font-size: 20px;}
+
+label[for="n1"]{color: rgb(247, 6, 143);}
+label[for="tel1"]{color: rgb(247, 6, 143);}
+label[for="e1"]{color: rgb(247, 6, 143);}
+label[for="i1"]{color: rgb(247, 6, 143);}
+
+#afim{color: rgb(247, 6, 143);}
